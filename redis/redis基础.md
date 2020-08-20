@@ -6,7 +6,7 @@
 
 `	[root@master local]# redis/bin/redis-cli`
 
-若更爱了端口使用redis-cli 连接客户端时也需要指定端口
+若更改了端口使用redis-cli 连接客户端时也需要指定端口
 
 `	[root@master local]# redis/bin/redis-cli -p 6380`
 
